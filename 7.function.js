@@ -152,6 +152,7 @@ console.log(counter.next());
 console.log(counter.next());
 console.log(counter.next());
 console.log(counter.next());
+console.log(counter.next());
 
 
 
